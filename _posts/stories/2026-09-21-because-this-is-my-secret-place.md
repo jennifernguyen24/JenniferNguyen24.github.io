@@ -2,7 +2,7 @@
 title: "Because this is my secret place"
 date: 2026-09-21
 category: stories
-lang: en
+lang: both
 excerpt: "Just tired and exhausted cause I know no one's gonna save me"
 ---
 These days are like rain drops on my purely exhausted soul. 
